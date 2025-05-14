@@ -1,1 +1,1 @@
-![.](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![.](https://github.com/wxnasify}/{repository}/raw/{branch}/{path}/bg.jpg)
